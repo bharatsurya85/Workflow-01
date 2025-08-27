@@ -1,0 +1,8 @@
+name: "My First WFLO -27082025"
+on:
+  push:
+    branches:
+      - main
+      - 'feature/**'
+      
+    
