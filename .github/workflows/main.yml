@@ -1,9 +1,0 @@
-name : "Bharat 1st Git workflow"
-on:
-  push:
-    branches:
-      -  main
-      -  'feature/**'
-
-jobs:
-  job
